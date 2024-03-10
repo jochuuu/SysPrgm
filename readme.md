@@ -3,10 +3,10 @@ I am Joxy John. This code is written for my learning of System Programming. This
 
 Details of the Coding Platform:
 -------------------------------------
-Operating System    - Linux Ubuntu
-C Compiler          - GCC
-Concept             - Multi-threading
-Programing Language - C
-Editor              - Vim
+Operating System    - Linux Ubuntu\n
+C Compiler          - GCC\n
+Concept             - Multi-threading\n
+Programing Language - C\n
+Editor              - Vim\n
 
 
